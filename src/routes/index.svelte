@@ -11,10 +11,13 @@
     name="keywords"
     content="osemudiamhen, ughu, svelte, website developer, portfolio, personal, personal website, personal portfolio"
   />
-  <link
-    rel="image_src"
-    href="https://res.cloudinary.com/drze4mafd/image/upload/v1637477675/Ose/Ose_jhc4fd.jpg"
+  <meta
+    property="og:image"
+    content="https://res.cloudinary.com/drze4mafd/image/upload/v1637477675/Ose/Ose_jhc4fd.jpg"
   />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="627" />
+  <meta property="og:url" content="https://oseughu.com" />
   <meta name="author" content="Osemudiamhen Ughu" />
   <link rel="icon" href="/favicon.ico" />
 </svelte:head>

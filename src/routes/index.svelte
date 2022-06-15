@@ -4,12 +4,6 @@
   import { fly } from 'svelte/transition'
 </script>
 
-<svelte:head>
-  <title>Osemudiamhen Ughu</title>
-
-  <link rel="icon" href="/favicon.ico" />
-</svelte:head>
-
 <main
   transition:fly={{ y: 200, duration: 2000 }}
   class="flex items-center justify-center font-sans bg-gray-200"

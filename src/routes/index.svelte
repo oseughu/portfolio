@@ -19,6 +19,7 @@
   <meta property="og:image:height" content="627" />
   <meta property="og:url" content="https://oseughu.com" />
   <meta name="author" content="Osemudiamhen Ughu" />
+  <meta name="twitter:card" content="summary" />
   <link rel="icon" href="/favicon.ico" />
 </svelte:head>
 

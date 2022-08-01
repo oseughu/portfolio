@@ -6,7 +6,7 @@
 
 <section class="py-20 bg-gray-800 rounded-xl pattern">
   <div class="max-w-xl px-6 m-0 mx-auto text-center ">
-    <Typewriter scramble interval={100} cursor={false}>
+    <Typewriter mode="scramble" cursor={false}>
       <h2 class="text-3xl font-normal font-marck text-gray-100">
         <span class="px-1  text-gray-100 bg-indigo-800 rounded"
           >Osemudiamhen Ughu .</span

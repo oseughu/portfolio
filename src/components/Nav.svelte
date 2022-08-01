@@ -32,6 +32,7 @@
           >
         </a>
       </div>
+
       <div class="flex items-center -mx-2">
         <a
           class="email flex items-center mx-2 text-gray-800"
@@ -82,6 +83,16 @@
           ><img
             src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png"
             alt="linkedin-logo"
+          />
+        </a>
+        <a
+          class="email flex items-center mx-2 text-gray-800"
+          href="https://oseughu.medium.com"
+          target="_blank"
+        >
+          <img
+            src="https://cdn.iconscout.com/icon/free/png-256/medium-4054255-3352997.png"
+            alt="medium-icon"
           />
         </a>
       </div>

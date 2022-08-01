@@ -17,7 +17,7 @@
           target="_blank"
         >
           <img
-            src="https://www.pngplay.com/wp-content/uploads/6/Email-Icon-Transparent-Background.png"
+            src="https://cdn-icons-png.flaticon.com/512/37/37572.png"
             alt="email-icon"
           />
         </a>
@@ -63,7 +63,7 @@
           />
         </a>
         <a
-          class="email flex items-center mx-2 text-gray-800"
+          class="medium flex items-center mx-2 text-gray-800"
           href="https://oseughu.medium.com"
           target="_blank"
         >
@@ -85,6 +85,12 @@
   }
 
   .email {
+    width: 22px;
+    height: 22px;
+    opacity: 0.8;
+  }
+
+  .medium {
     width: 25px;
     height: 25px;
     opacity: 0.8;

@@ -104,8 +104,8 @@
 
 <style>
   .linkedin {
-    width: 22px;
-    height: 22px;
+    width: 25px;
+    height: 25px;
   }
 
   .email {

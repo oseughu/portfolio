@@ -8,7 +8,6 @@
 </script>
 
 <Header />
-
 <main
   transition:fly={{ y: 200, duration: 2000 }}
   class="flex items-center justify-center font-sans bg-gray-200"
@@ -18,5 +17,4 @@
     <Projects />
   </div>
 </main>
-
 <Footer />

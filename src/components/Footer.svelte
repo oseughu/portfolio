@@ -10,6 +10,8 @@
         <div class="text-gray-600">&copy; Ose Ughu {currentYear}</div>
       </div>
 
+      <div>🌚🌚🌚</div>
+
       <div class="flex items-center -mx-2">
         <a
           class="email flex items-center mx-2 text-gray-800"

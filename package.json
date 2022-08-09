@@ -1,27 +1,23 @@
 {
-  "name": "kittest",
-  "version": "0.0.1",
+  "name": "portfolio",
+  "private": true,
+  "version": "2.0.1",
+  "type": "module",
   "scripts": {
-    "dev": "vite dev",
+    "dev": "vite",
     "build": "vite build",
-    "package": "svelte-kit package",
-    "preview": "vite preview",
-    "prepare": "svelte-kit sync"
+    "preview": "vite preview"
   },
   "devDependencies": {
-    "@sveltejs/adapter-auto": "next",
-    "@sveltejs/kit": "next",
+    "@sveltejs/vite-plugin-svelte": "^1.0.1",
     "autoprefixer": "^10.4.7",
     "daisyui": "^2.18.1",
     "postcss": "^8.4.14",
     "postcss-load-config": "^4.0.1",
-    "svelte": "^3.44.0",
+    "svelte": "^3.49.0",
     "svelte-preprocess": "^4.10.7",
+    "svelte-typewriter": "^3.0.1",
     "tailwindcss": "^3.1.5",
     "vite": "^3.0.0"
-  },
-  "type": "module",
-  "dependencies": {
-    "svelte-typewriter": "^3.0.1"
   }
 }

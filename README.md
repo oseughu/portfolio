@@ -2,6 +2,6 @@
 
 Built using:
 
-- SvelteKit
+- Svelte
 - TailwindCSS
 - Vercel

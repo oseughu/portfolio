@@ -83,7 +83,7 @@
           href="https://www.linkedin.com/in/oseughu"
           target="_blank"
           ><img
-            src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png"
+            src="https://cdn.iconscout.com/icon/free/png-256/linkedin-32-114604.png"
             alt="linkedin-logo"
           />
         </a>

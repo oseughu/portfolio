@@ -33,7 +33,7 @@
         </a>
       </div>
 
-      <div>🚀🚀🚀</div>
+      <div>🚀</div>
 
       <div class="flex items-center -mx-2">
         <a

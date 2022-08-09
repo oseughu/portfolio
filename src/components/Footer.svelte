@@ -10,7 +10,7 @@
         <div class="text-gray-600">&copy; Ose Ughu {currentYear}</div>
       </div>
 
-      <div class="emoji">🌚🌚🌚</div>
+      <div class="emoji">🌚</div>
 
       <div class="flex items-center -mx-2">
         <a

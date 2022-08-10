@@ -10,8 +10,6 @@
         <div class="text-gray-600">&copy; Ose Ughu {currentYear}</div>
       </div>
 
-      <div class="emoji">🌚</div>
-
       <div class="flex items-center -mx-2">
         <a
           class="email flex items-center mx-2 text-gray-800"
@@ -83,10 +81,6 @@
   .linkedin {
     width: 25px;
     height: 25px;
-    opacity: 0.8;
-  }
-
-  .emoji {
     opacity: 0.8;
   }
 

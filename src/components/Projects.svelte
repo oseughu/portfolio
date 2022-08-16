@@ -1,6 +1,25 @@
+<script>
+  import Space from './Space.svelte'
+</script>
+
 <section class="py-20 bg-gray-800 pattern rounded-xl font-sans">
   <div class="max-w-3xl px-6 mx-auto text-center">
     <h2 class="text-2xl font-semibold text-white">Projects</h2>
+
+    <a
+      class="block w-full max-w-2xl transition duration-500 ease-in-out transform bg-white border-t-4 border-indigo-900 rounded-md shadow-md hover:-translate-y-1 hover:scale-110"
+      href="https://mookie-assessment.herokuapp.com"
+      target="_blank"
+    >
+      <div class="flex items-center justify-between px-4 py-2">
+        <h3 class="text-md font-medium text-gray-700">
+          Mookie Webscraper (NodeJS, EJS, MongoDB, Passport, Cheerio)
+        </h3>
+        <span class="block text-sm font-light text-gray-600">10 June 2022</span>
+      </div>
+    </a>
+
+    <Space />
 
     <div class="flex flex-col items-center justify-around mt-6">
       <a
@@ -18,23 +37,7 @@
         </div>
       </a>
 
-      <section class="p-3 mw-lg" />
-
-      <a
-        class="block w-full max-w-2xl transition duration-500 ease-in-out transform bg-white border-t-4 border-indigo-900 rounded-md shadow-md hover:-translate-y-1 hover:scale-110"
-        href="https://sveltekit-task-tracker.vercel.app"
-        target="_blank"
-      >
-        <div class="flex items-center justify-between px-4 py-2">
-          <h3 class="text-md font-medium text-gray-700">
-            SvelteKit Task Tracker (SvelteKit, TypeScript)
-          </h3>
-          <span class="block text-sm font-light text-gray-600">23 Apr 2022</span
-          >
-        </div>
-      </a>
-
-      <section class="p-3 mw-lg" />
+      <Space />
 
       <a
         class="block w-full max-w-2xl transition duration-500 ease-in-out transform bg-white border-t-4 border-indigo-900 rounded-md shadow-md hover:-translate-y-1 hover:scale-110"
@@ -50,7 +53,7 @@
         </div>
       </a>
 
-      <section class="p-3 mw-lg" />
+      <Space />
 
       <a
         class="block w-full max-w-2xl transition duration-500 ease-in-out transform bg-white border-t-4 border-indigo-900 rounded-md shadow-md hover:-translate-y-1 hover:scale-110"
@@ -66,7 +69,7 @@
         </div>
       </a>
 
-      <section class="p-3 mw-lg" />
+      <Space />
 
       <a
         class="block w-full max-w-2xl transition duration-500 ease-in-out transform bg-white border-t-4 border-indigo-900 rounded-md shadow-md hover:-translate-y-1 hover:scale-110"
@@ -82,7 +85,7 @@
         </div>
       </a>
 
-      <section class="p-3 mw-lg" />
+      <Space />
     </div>
 
     <div class="flex items-center justify-center mt-12">

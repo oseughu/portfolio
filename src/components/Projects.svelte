@@ -9,12 +9,29 @@
     <div class="flex flex-col items-center justify-around mt-6">
       <a
         class="block w-full max-w-2xl transition duration-500 ease-in-out transform bg-white border-t-4 border-indigo-900 rounded-md shadow-md hover:-translate-y-1 hover:scale-110"
+        href="https://github.com/oseughu/tix"
+        target="_blank"
+      >
+        <div class="flex items-center justify-between px-4 py-2">
+          <h3 class="text-md font-medium text-gray-700">
+            Tix Ticketing API (NodeJS, Express, MongoDB, Passport, Mocha, Chai,
+            Supertest)
+          </h3>
+          <span class="block text-sm font-light text-gray-600">2 Jul 2022</span>
+        </div>
+      </a>
+
+      <Space />
+
+      <a
+        class="block w-full max-w-2xl transition duration-500 ease-in-out transform bg-white border-t-4 border-indigo-900 rounded-md shadow-md hover:-translate-y-1 hover:scale-110"
         href="https://mookie-assessment.herokuapp.com"
         target="_blank"
       >
         <div class="flex items-center justify-between px-4 py-2">
           <h3 class="text-md font-medium text-gray-700">
-            Mookie Webscraper (NodeJS, EJS, MongoDB, Passport, Axios, Cheerio)
+            Mookie Webscraper (NodeJS, Express, EJS, MongoDB, Passport, Axios,
+            Cheerio)
           </h3>
           <span class="block text-sm font-light text-gray-600"
             >10 June 2022</span
@@ -31,26 +48,10 @@
       >
         <div class="flex items-center justify-between px-4 py-2">
           <h3 class="text-md font-medium text-gray-700">
-            Foodstop API (TypeScript, NodeJS, MongoDB, Mocha, Chai &amp;
+            Foodstop API (TypeScript, NodeJS, Express, MongoDB, Mocha, Chai,
             Supertest)
           </h3>
           <span class="block text-sm font-light text-gray-600">12 May 2022</span
-          >
-        </div>
-      </a>
-
-      <Space />
-
-      <a
-        class="block w-full max-w-2xl transition duration-500 ease-in-out transform bg-white border-t-4 border-indigo-900 rounded-md shadow-md hover:-translate-y-1 hover:scale-110"
-        href="https://github.com/oseughu/lannisterpay"
-        target="_blank"
-      >
-        <div class="flex items-center justify-between px-4 py-2">
-          <h3 class="text-md font-medium text-gray-700">
-            LannisterPay API (NodeJS, MongoDB)
-          </h3>
-          <span class="block text-sm font-light text-gray-600">28 Feb 2022</span
           >
         </div>
       </a>
@@ -64,7 +65,7 @@
       >
         <div class="flex items-center justify-between px-4 py-2">
           <h3 class="text-md font-medium text-gray-700">
-            Fundall Wallet API (NodeJS, Passport, MySQL)
+            Fundall Wallet API (NodeJS, Express, MySQL, Passport)
           </h3>
           <span class="block text-sm font-light text-gray-600">18 Jan 2022</span
           >

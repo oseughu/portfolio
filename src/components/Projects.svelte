@@ -37,8 +37,6 @@
         </div>
       </a>
 
-      <Space />
-
       <a
         class="block w-full max-w-2xl transition duration-500 ease-in-out transform bg-white border-t-4 border-indigo-900 rounded-md shadow-md hover:-translate-y-1 hover:scale-110"
         href="https://github.com/oseughu/lannisterpay"

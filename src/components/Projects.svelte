@@ -14,7 +14,7 @@
       >
         <div class="flex items-center justify-between px-4 py-2">
           <h3 class="text-md font-medium text-gray-700">
-            Mookie Webscraper (NodeJS, EJS, MongoDB, Passport, Cheerio)
+            Mookie Webscraper (NodeJS, EJS, MongoDB, Passport, Axios, Cheerio)
           </h3>
           <span class="block text-sm font-light text-gray-600"
             >10 June 2022</span

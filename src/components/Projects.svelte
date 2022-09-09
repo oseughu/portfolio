@@ -25,7 +25,7 @@
 
       <a
         class="block w-full max-w-2xl transition duration-500 ease-in-out transform bg-white border-t-4 border-indigo-900 rounded-md shadow-md hover:-translate-y-1 hover:scale-110"
-        href="https://mookie-assessment.herokuapp.com"
+        href="https://mookie.cyclic.app"
         target="_blank"
       >
         <div class="flex items-center justify-between px-4 py-2">

@@ -63,7 +63,7 @@
       or send me an
       <a class="underline" href="mailto:oseughu@gmail.com" target="_blank"
         >email</a
-      >. I write sometimes, mostly on
+      >. I try to write sometimes, mostly on
       <a class="underline" href="http://oseughu.medium.com" target="_blank"
         >medium.</a
       >

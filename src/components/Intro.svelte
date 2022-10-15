@@ -1,5 +1,4 @@
 <script>
-  // @ts-nocheck
   import Typewriter from 'svelte-typewriter'
 </script>
 
@@ -30,9 +29,9 @@
         >oh-seh</em
       >). I'm a software engineer with over three years of experience
       effectively supporting SaaS products for multiple users and building
-      server-side web applications and APIs (NodeJS). I'm proficient in multiple
-      tech stacks which include Node, Express, Svelte, React, MongoDB,
-      PostgreSQL, MySQL and so much
+      server-side web applications and APIs (NodeJS, Ruby on Rails). I'm
+      proficient in multiple tech stacks which include Node, Express, Svelte,
+      React, Ruby on Rails, GraphQL, MongoDB, PostgreSQL, MySQL and so much
       <a
         class="underline"
         href="https://drive.google.com/file/d/1S54oqMMbi_b1QPqtOjlaU4Yfr9F58t5a/view?usp=sharing"
@@ -41,12 +40,17 @@
     </p>
     <br />
     <p class="mt-4 text-lg text-gray-200 font-sans"
-      >I'm currently a freelance software engineer on <a
+      >I'm currently a software engineer at <a
+        class="underline"
+        href="https://tix.africa"
+        target="_blank">Tix</a
+      >
+      and a freelance software engineer on
+      <a
         class="underline"
         href="https://www.upwork.com/freelancers/~0106356675872e13ef"
         target="_blank">UpWork.</a
       >
-      I'm also in search of a permanent role, preferably as a backend engineer (NodeJS).
       I love everything tech, I also love to play video games and watch good movies/TV
       Shows (Mostly Sci-Fi). If you ever want to work together or you just want to
       have a great conversation, hit me up on

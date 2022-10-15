@@ -51,9 +51,10 @@
         href="https://www.upwork.com/freelancers/~0106356675872e13ef"
         target="_blank">UpWork.</a
       >
-      I love everything tech, I also love to play video games and watch good movies/TV
-      Shows (Mostly Sci-Fi). If you ever want to work together or you just want to
-      have a great conversation, hit me up on
+      When I'm not writing clean, efficient and testable code, I love to play video
+      games, watch good movies/TV Shows (Mostly Sci-Fi) and keep abreast of current
+      trends in technology by reading and learning. If you ever want to work together
+      or you just want to have a great conversation, hit me up on
       <a
         class="underline"
         href="https://twitter.com/messages/compose?recipient_id=235426005&text=hey%20there%20fine%20boy"

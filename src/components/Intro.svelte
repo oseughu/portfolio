@@ -53,18 +53,18 @@
       >
       When I'm not writing clean, efficient and testable code, I'm playing video
       games, watching entertaining movies & TV shows (mostly sci-fi/fantasy) and
-      keeping abreast of current tech trends by reading and learning. Please feel
-      free to get in touch if you ever want to work together or just have a pleasant
-      conversation. You can dm me on
+      keeping abreast of current tech trends by reading and learning. If you ever
+      want to work together or have a pleasant conversation, you can dm me on
       <a
         class="underline"
         href="https://twitter.com/messages/compose?recipient_id=235426005&text=hey%20there%20fine%20boy"
         target="_blank">twitter</a
       >
-      or send an
+      or send me an
       <a class="underline" href="mailto:oseughu@gmail.com" target="_blank"
-        >email</a
-      >. I try to write sometimes, mostly on
+        >email.</a
+      >
+      I also try to write sometimes, mostly on
       <a class="underline" href="http://oseughu.medium.com" target="_blank"
         >medium.</a
       >

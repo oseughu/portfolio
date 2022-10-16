@@ -51,16 +51,17 @@
         href="https://www.upwork.com/freelancers/~0106356675872e13ef"
         target="_blank">UpWork.</a
       >
-      When I'm not writing clean, efficient and testable code, I love to play video
-      games, watch good movies/TV shows (mostly Sci-Fi/Fantasy) and keep abreast
-      of current trends in technology by reading and learning. If you ever want to
-      work together or you just want to have a great conversation, hit me up on
+      When I'm not writing clean, efficient and testable code, I'm playing video
+      games, watching entertaining movies & TV shows (mostly sci-fi/fantasy) and
+      keeping abreast of current tech trends by reading and learning. Please feel
+      free to get in touch if you ever want to work together or just have a pleasant
+      conversation. You can dm me on
       <a
         class="underline"
         href="https://twitter.com/messages/compose?recipient_id=235426005&text=hey%20there%20fine%20boy"
         target="_blank">twitter</a
       >
-      or send me an
+      or send an
       <a class="underline" href="mailto:oseughu@gmail.com" target="_blank"
         >email</a
       >. I try to write sometimes, mostly on

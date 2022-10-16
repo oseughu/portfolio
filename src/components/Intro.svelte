@@ -52,7 +52,7 @@
         target="_blank">UpWork.</a
       >
       When I'm not writing clean, efficient and testable code, I love to play video
-      games, watch good movies/TV Shows (Mostly Sci-Fi) and keep abreast of current
+      games, watch good movies/TV shows (mostly Sci-Fi) and keep abreast of current
       trends in technology by reading and learning. If you ever want to work together
       or you just want to have a great conversation, hit me up on
       <a

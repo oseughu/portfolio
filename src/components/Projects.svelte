@@ -9,6 +9,23 @@
     <div class="flex flex-col items-center justify-around mt-6">
       <a
         class="block w-full max-w-2xl transition duration-500 ease-in-out transform bg-white border-t-4 border-indigo-900 rounded-md shadow-md hover:-translate-y-1 hover:scale-110"
+        href="https://github.com/oseughu/weather-app"
+        target="_blank"
+      >
+        <div class="flex items-center justify-between px-4 py-2">
+          <h3 class="text-md font-medium text-gray-700">
+            Weather App Subscription API (Ruby on Rails, GraphQL, PostgreSQL,
+            HTTParty, RSpec)
+          </h3>
+          <span class="block text-sm font-light text-gray-600">19 Sep 2022</span
+          >
+        </div>
+      </a>
+
+      <Space />
+
+      <a
+        class="block w-full max-w-2xl transition duration-500 ease-in-out transform bg-white border-t-4 border-indigo-900 rounded-md shadow-md hover:-translate-y-1 hover:scale-110"
         href="https://github.com/oseughu/tix"
         target="_blank"
       >

@@ -54,7 +54,7 @@
           </svg>
         </a>
         <a
-          class="linkedin flex items-center mx-2 text-gray-800"
+          class="icon flex items-center mx-2 text-gray-800"
           href="https://www.linkedin.com/in/oseughu"
           target="_blank"
           ><img
@@ -63,7 +63,7 @@
           />
         </a>
         <a
-          class="medium flex items-center mx-2 text-gray-800"
+          class="icon flex items-center mx-2 text-gray-800"
           href="https://oseughu.medium.com"
           target="_blank"
         >
@@ -78,7 +78,7 @@
 </footer>
 
 <style>
-  .linkedin {
+  .icon {
     width: 25px;
     height: 25px;
     opacity: 0.8;
@@ -87,12 +87,6 @@
   .email {
     width: 22px;
     height: 22px;
-    opacity: 0.8;
-  }
-
-  .medium {
-    width: 25px;
-    height: 25px;
     opacity: 0.8;
   }
 </style>

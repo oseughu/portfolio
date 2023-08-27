@@ -5,12 +5,10 @@
 <section class="p-6 bg-gray-200 mw-lg" />
 
 <section class="py-20 bg-gray-800 rounded-xl pattern">
-  <div class="max-w-xl px-6 m-0 mx-auto text-center ">
+  <div class="max-w-xl px-6 m-0 mx-auto text-center">
     <Typewriter mode="scramble" cursor={false}>
       <h2 class="text-3xl font-normal font-marck text-gray-100">
-        <span class="px-1  text-gray-100 bg-indigo-800 rounded"
-          >Osemudiamhen Ughu .</span
-        >
+        <span class="px-1 text-gray-100 bg-indigo-800 rounded">Osemudiamhen Ughu .</span>
       </h2>
     </Typewriter>
 
@@ -20,54 +18,43 @@
         height="200"
         class="pb-10 rounded-full"
         src="https://res.cloudinary.com/drze4mafd/image/upload/v1637477675/Ose/Ose_jhc4fd.jpg"
-        alt=""
-      />
+        alt="" />
     </div>
 
     <p class="mt-4 text-lg text-gray-200 font-sans"
-      >Hi, my name is Osemudiamhen Ughu but most people call me Ose (<em
-        >oh-seh</em
-      >). I'm a software engineer with over three years of experience
-      effectively supporting SaaS products for multiple users and building
-      server-side web applications and APIs (NodeJS, Ruby on Rails). I'm
-      proficient in multiple tech stacks which include Node, Express, Svelte,
-      React, Ruby on Rails, GraphQL, MongoDB, PostgreSQL, MySQL and so much
+      >Hi, my name is Osemudiamhen Ughu but most people call me Ose (<em>oh-seh</em>). I'm a
+      software engineer with over three years of experience effectively supporting SaaS products for
+      multiple users and building server-side web applications and APIs (NodeJS, Ruby on Rails,
+      PHP). I'm proficient in multiple tech stacks which include Node, Express, Svelte, PHP,
+      Laravel, Ruby on Rails, GraphQL, MongoDB, PostgreSQL, MySQL and so much
       <a
         class="underline"
         href="https://drive.google.com/file/d/1S54oqMMbi_b1QPqtOjlaU4Yfr9F58t5a/view?usp=sharing"
-        target="_blank">more.</a
-      >
+        target="_blank">more.</a>
     </p>
     <br />
     <p class="mt-4 text-lg text-gray-200 font-sans"
       >I'm currently a software engineer at <a
         class="underline"
         href="https://tix.africa"
-        target="_blank">Tix</a
-      >
+        target="_blank">Tix</a>
       and a freelance software engineer on
       <a
         class="underline"
         href="https://www.upwork.com/freelancers/~0106356675872e13ef"
-        target="_blank">UpWork.</a
-      >
-      When I'm not writing clean, efficient and testable code, I'm playing video
-      games, watching entertaining movies & TV shows (mostly sci-fi/fantasy) and
-      keeping abreast of current tech trends by reading and learning. If you ever
-      want to work together or have a pleasant conversation, you can dm me on
+        target="_blank">UpWork.</a>
+      When I'm not writing clean, efficient and testable code, I'm playing video games, watching entertaining
+      movies & TV shows (mostly sci-fi/fantasy) and keeping abreast of current tech trends by reading
+      and learning. If you ever want to work together or have a pleasant conversation, you can dm me
+      on
       <a
         class="underline"
         href="https://twitter.com/messages/compose?recipient_id=235426005&text=hey%20there%20fine%20boy"
-        target="_blank">twitter</a
-      >
+        target="_blank">twitter</a>
       or send me an
-      <a class="underline" href="mailto:oseughu@gmail.com" target="_blank"
-        >email.</a
-      >
+      <a class="underline" href="mailto:oseughu@gmail.com" target="_blank">email.</a>
       I also try to write sometimes, mostly on
-      <a class="underline" href="http://oseughu.medium.com" target="_blank"
-        >medium.</a
-      >
+      <a class="underline" href="http://oseughu.medium.com" target="_blank">medium.</a>
     </p>
   </div>
 </section>

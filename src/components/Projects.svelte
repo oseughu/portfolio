@@ -10,15 +10,12 @@
       <a
         class="block w-full max-w-2xl transition duration-500 ease-in-out transform bg-white border-t-4 border-indigo-900 rounded-md shadow-md hover:-translate-y-1 hover:scale-110"
         href="https://github.com/oseughu/weather-app"
-        target="_blank"
-      >
+        target="_blank">
         <div class="flex items-center justify-between px-4 py-2">
           <h3 class="text-md font-medium text-gray-700">
-            Weather App Subscription API (Ruby on Rails, GraphQL, PostgreSQL,
-            HTTParty, RSpec)
+            Weather App Subscription API (Ruby on Rails, GraphQL, PostgreSQL, HTTParty, RSpec)
           </h3>
-          <span class="block text-sm font-light text-gray-600">19 Sep 2022</span
-          >
+          <span class="block text-sm font-light text-gray-600">19 Sep 2022</span>
         </div>
       </a>
 
@@ -27,12 +24,10 @@
       <a
         class="block w-full max-w-2xl transition duration-500 ease-in-out transform bg-white border-t-4 border-indigo-900 rounded-md shadow-md hover:-translate-y-1 hover:scale-110"
         href="https://github.com/oseughu/tix"
-        target="_blank"
-      >
+        target="_blank">
         <div class="flex items-center justify-between px-4 py-2">
           <h3 class="text-md font-medium text-gray-700">
-            Tix Ticketing API (NodeJS, Express, MongoDB, Passport, Mocha, Chai,
-            Supertest)
+            Tix Ticketing API (NodeJS, Express, MongoDB, Passport, Mocha, Chai, Supertest)
           </h3>
           <span class="block text-sm font-light text-gray-600">2 Jul 2022</span>
         </div>
@@ -43,16 +38,12 @@
       <a
         class="block w-full max-w-2xl transition duration-500 ease-in-out transform bg-white border-t-4 border-indigo-900 rounded-md shadow-md hover:-translate-y-1 hover:scale-110"
         href="https://mookie.cyclic.app"
-        target="_blank"
-      >
+        target="_blank">
         <div class="flex items-center justify-between px-4 py-2">
           <h3 class="text-md font-medium text-gray-700">
-            Mookie Webscraper (NodeJS, Express, EJS, MongoDB, Passport, Axios,
-            Cheerio)
+            Mookie Webscraper (NodeJS, Express, EJS, MongoDB, Passport, Axios, Cheerio)
           </h3>
-          <span class="block text-sm font-light text-gray-600"
-            >10 June 2022</span
-          >
+          <span class="block text-sm font-light text-gray-600">10 June 2022</span>
         </div>
       </a>
 
@@ -61,15 +52,12 @@
       <a
         class="block w-full max-w-2xl transition duration-500 ease-in-out transform bg-white border-t-4 border-indigo-900 rounded-md shadow-md hover:-translate-y-1 hover:scale-110"
         href="https://github.com/oseughu/foodstop"
-        target="_blank"
-      >
+        target="_blank">
         <div class="flex items-center justify-between px-4 py-2">
           <h3 class="text-md font-medium text-gray-700">
-            Foodstop API (TypeScript, NodeJS, Express, MongoDB, Mocha, Chai,
-            Supertest)
+            Foodstop API (TypeScript, NodeJS, Express, MongoDB, Mocha, Chai, Supertest)
           </h3>
-          <span class="block text-sm font-light text-gray-600">12 May 2022</span
-          >
+          <span class="block text-sm font-light text-gray-600">12 May 2022</span>
         </div>
       </a>
 
@@ -78,14 +66,12 @@
       <a
         class="block w-full max-w-2xl transition duration-500 ease-in-out transform bg-white border-t-4 border-indigo-900 rounded-md shadow-md hover:-translate-y-1 hover:scale-110"
         href="https://github.com/oseughu/fundall"
-        target="_blank"
-      >
+        target="_blank">
         <div class="flex items-center justify-between px-4 py-2">
           <h3 class="text-md font-medium text-gray-700">
             Fundall Wallet API (NodeJS, Express, MySQL, Passport)
           </h3>
-          <span class="block text-sm font-light text-gray-600">18 Jan 2022</span
-          >
+          <span class="block text-sm font-light text-gray-600">18 Jan 2022</span>
         </div>
       </a>
 
@@ -94,14 +80,10 @@
       <a
         class="block w-full max-w-2xl transition duration-500 ease-in-out transform bg-white border-t-4 border-indigo-900 rounded-md shadow-md hover:-translate-y-1 hover:scale-110"
         href="https://nasa-birthday.vercel.app"
-        target="_blank"
-      >
+        target="_blank">
         <div class="flex items-center justify-between px-4 py-2">
-          <h3 class="text-md font-medium text-gray-700">
-            NASA Birthday App (React, NASA API)
-          </h3>
-          <span class="block text-sm font-light text-gray-600">21 Oct 2021</span
-          >
+          <h3 class="text-md font-medium text-gray-700"> NASA Birthday App (React, NASA API) </h3>
+          <span class="block text-sm font-light text-gray-600">21 Oct 2021</span>
         </div>
       </a>
 
@@ -112,8 +94,7 @@
       <a
         class="flex items-center text-white hover:underline hover:text-gray-200"
         href="https://github.com/oseughu?tab=repositories"
-        target="_blank"
-      >
+        target="_blank">
         <span>View Code & More On GitHub</span>
       </a>
     </div>

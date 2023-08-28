@@ -20,7 +20,7 @@
 
         <a
           class="flex items-center mx-2 text-gray-800"
-          href="https://www.twitter.com/oseughu"
+          href="https://twitter.com/oseughu"
           target="_blank">
           <svg
             class="w-5 h-5 fill-current sm:h-6 sm:w-6"
@@ -33,7 +33,7 @@
 
         <a
           class="flex items-center mx-2 text-gray-800"
-          href="https://www.github.com/oseughu"
+          href="https://github.com/oseughu"
           target="_blank">
           <svg
             class="w-5 h-5 fill-current sm:h-6 sm:w-6"
@@ -45,7 +45,7 @@
         </a>
         <a
           class="icon flex items-center mx-2 text-gray-800"
-          href="https://www.linkedin.com/in/oseughu"
+          href="https://linkedin.com/in/oseughu"
           target="_blank"
           ><img
             src="https://cdn.iconscout.com/icon/free/png-256/linkedin-32-114604.png"
